@@ -1,0 +1,6 @@
+AI/ML Intern
+
+We are looking for a student with Python and machine learning experience.
+Knowledge of NLP, embeddings, SQL and scikit-learn is preferred.
+Experience with data preprocessing and model evaluation is useful.
+Familiarity with Docker and cloud platforms is a plus.
