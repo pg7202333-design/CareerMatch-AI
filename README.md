@@ -16,6 +16,23 @@ Resume–job matching with section-aware parsing, weighted skill-gap analysis an
 
 All Phase 3 explanations are deterministic and evidence-grounded; no language model is used to invent resume claims.
 
+## Screenshots
+
+### Dashboard
+![CareerMatch AI Dashboard](screenshots/Dashboard.png)
+
+### Evidence & Explainability
+![Evidence and Explainability](screenshots/Evidence.png)
+
+### Project Ranking
+![Project Ranking](screenshots/projects.png)
+
+### Resume Improvement
+![Resume Improvement](screenshots/Improvement.png)
+
+### Overview
+![CareerMatch AI Overview](screenshots/Overview.png)
+
 ## Architecture
 
 ```text
